@@ -1,4 +1,4 @@
 This is a simple example of an MQTT pub/sub routine on a BuildHat (a LEGO PowerUp interface for the Raspberry Pi).
-My BuildHat has a PU Button/Source Sensor for the Publish and a PU 3x3 LED Matrix as a Subscription indicator, but any cheaper PU LED can be used with some basic changes to the code.
+My BuildHat has a PU Button/Fource Sensor for the Publish and a PU 3x3 LED Matrix as a Subscription indicator, but any cheaper PU LED can be used with some basic changes to the code.
 
 This example assumes you have a MQTT broker running with a test/relay topic and the appropreate relay hardware.  However, again, any topic and/or hardware can be accommodated with adjustments to the code as needed.
